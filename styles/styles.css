@@ -1,5 +1,19 @@
+nav {
+  background-color: #eee9e9;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
 main {
   max-width: 840px;
+}
+main>h1 {
+  text-align: center;
+}
+main img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 aside {
   width: 20rem;
